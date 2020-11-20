@@ -1,0 +1,5 @@
+1. MVC: Model_View_Controller
+
+2. Button and TextView
+
+3. NEXT button: String and icon

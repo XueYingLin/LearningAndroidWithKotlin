@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         falseButton.setOnClickListener { view ->
+            //setGravity's return type is void, so create an instant variable toast to hold the result
             var toast = Toast.makeText(
                 this,
                 R.string.incorrect_toast,
